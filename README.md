@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shane Aira P. Salvador
+# 👋 Hi, I'm Shane Aira
 
 **Full Stack Web / Mobile Developer** · BS Information Technology Graduate
 
