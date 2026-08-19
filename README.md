@@ -22,12 +22,13 @@ I build responsive web and mobile applications using **React, TypeScript, Flutte
 
 ## 📌 Featured Projects
 
-* **DevGeek Cloud Drive** — Cloud file storage and sharing platform
+* **DG Cloud Drive** — Cloud file storage and sharing platform
 * **DGESS** — Employee self-service mobile application
 * **DGPOS** — Mobile point-of-sale system
-* **Famous Branch Information System** — Branch and franchise management app
+* **DGFBIS** — Branch and franchise management app
 * **VolleyVerse** — Multiplayer volleyball game built with Roblox Studio & Lua
 * **UnLockr** — Arduino-based gate access control system
+* **DG Docs Scanner** - Document Scanner, and Converter 
 
 ## 🌐 Connect With Me
 
